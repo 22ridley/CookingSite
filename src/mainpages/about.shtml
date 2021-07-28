@@ -5,17 +5,17 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
-<link href="static/styles.css" rel="stylesheet">
-<link rel="icon" href="Images/favicon.ico">
+<link href="../static/styles.css" rel="stylesheet">
+<link rel="icon" href="../Images/favicon.ico">
 <title>
     Ridley's Recipes
 </title>
 </head>
 <body>
-<!--#include file="static/header.html" -->
+<!--#include file="../static/header.html" -->
 <!-- Welcome message -->
 <br>
-<img class="wrapped" src="Images/sarah-junior.jpeg" alt="Decorating Cookies">
+<img class="wrapped" src="../Images/sarah-junior.jpeg" alt="Decorating Cookies">
 <h2>
     About Me
 </h2>
@@ -41,14 +41,14 @@
 </p>
 <br>
 <!-- Cookie Decorating -->
-<img src="Images/cookie-decorating.JPG" alt="Decorating Cookies" class="center">
+<img src="../Images/cookie-decorating.JPG" alt="Decorating Cookies" class="center">
 <br>
 <h4>
     We love to decorate cookies as a family at Christmas!
 </h4>
 <br><br>
 <!-- Decorated Cookies -->
-<img src="Images/ccookies-cousins.jpg" alt="Decorated Cookies" class="center">
+<img src="../Images/ccookies-cousins.jpg" alt="Decorated Cookies" class="center">
 <br>
 <h4>
     We make a whole lot of cookies. They're delicious!
@@ -57,6 +57,6 @@
 <br>
 <br>
 <!-- Bottom Bar-->
-<!--#include file="static/footer.html" -->
+<!--#include file="../static/footer.html" -->
 </body>
 </html>

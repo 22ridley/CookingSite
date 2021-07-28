@@ -5,14 +5,14 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
-    <link href="static/styles.css" rel="stylesheet">
-    <link rel="icon" href="Images/favicon.ico">
+    <link href="../static/styles.css" rel="stylesheet">
+    <link rel="icon" href="../Images/favicon.ico">
     <title>
         Ridley's Recipes
     </title>
 </head>
 <body>
-<!--#include file="static/header.html" -->
+<!--#include file="../static/header.html" -->
 <!-- Welcome message -->
 <br>
 <h2>
@@ -38,28 +38,28 @@
 </p>
 <br>
 <!-- Shortbread Flowers -->
-<img src="Images/spring-cookies-high.JPG" alt="Shortbread Flowers" class="center">
+<img src="../Images/spring-cookies-high.JPG" alt="Shortbread Flowers" class="center">
 <br>
 <h4>
     Cute shortbread flowers
 </h4>
 <br><br>
 <!-- Strawberry and Orange Scones -->
-<img src="Images/scones-high.JPG" alt="Strawberry and Orange Scones" class="center">
+<img src="../Images/scones-high.JPG" alt="Strawberry and Orange Scones" class="center">
 <br>
 <h4>
     Amazing strawberry and orange scones
 </h4>
 <br><br>
 <!-- Chocolate Brownies -->
-<img src="Images/brownies-high.JPG" alt="Chocolate Brownies" class="center">
+<img src="../Images/brownies-high.JPG" alt="Chocolate Brownies" class="center">
 <br>
 <h4>
     Delicious chocolate brownies
 </h4>
 <br>
 <!-- Bottom Bar-->
-<!--#include file="static/footer.html" -->
+<!--#include file="../static/footer.html" -->
 
 <!-- Option choosing in case I need-->
 <label for="feelings">

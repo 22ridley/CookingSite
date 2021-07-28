@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="../static/styles.css" rel="stylesheet">
+<link rel="icon" href="../Images/favicon.ico">
+<title>
+    Ridley's Recipes
+</title>
+</head>
+<body>
+<!--#include file="../static/header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Taco Salad
+</h2>
+<!-- Text and Photos-->
+<br>
+<p>Ingredients:</p>
+<ul>
+    <li>1/2 medium onion, chopped</li>
+    <li>3 garlic cloves, finely chopped or minced</li>
+    <li>1 fresh serrano chile (seeds removed), finely chopped</li>
+    <li>1 tablespoon chili powder</li>
+    <li>2 teaspoons ground cumin</li>
+    <li>2 tablespoons olive oil</li>
+    <li>1 1/2 lb ground chuck</li>
+    <li>1 (8-oz) can tomato sauce</li>
+    <li>1/2 teaspoon salt</li>
+    <li>1/4 teaspoon black pepper</li>
+</ul>
+<br>
+<p>Optional Ingredients for Assembly:</p>
+<ul>
+    <li>Tortilla chips (Tostitos, Fritos)</li>
+    <li>Mexican mix shredded cheese</li>
+    <li>Shredded lettuce</li>
+    <li>Black or refried beans</li>
+    <li>Brown or white rice</li>
+    <li>Avocado</li>
+    <li>Sour cream</li>
+    <li>Salsa</li>
+</ul>
+<br>
+<p>Instructions:</p>
+<ol>
+    <li>Cook onion, garlic, chiles to taste, chili powder, and cumin in oil in a 12-inch heavy skillet over moderate heat, stirring occasionally, until onion is well softened, about 6 minutes. Add beef and cook, stirring occasionally and breaking up lumps, until meat is no longer pink, about 5 minutes, then spoon off any excess fat from skillet.</li>
+    <li>Add tomato sauce, salt, and pepper to beef and cook, stirring, until slightly thickened, about 3 minutes. Remove from heat.</li>
+    <li>Assemble your taco salad with the ground beef and the other optional ingredients.</li>
+</ol>
+<br>
+<br>
+<!-- Bottom Bar-->
+<!--#include file="../static/footer.html" -->
+</body>
+</html>

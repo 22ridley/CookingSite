@@ -16,14 +16,21 @@
 <!-- Welcome message -->
 <br>
 <h2>
-    OOPSIES!
+    My Sources
 </h2>
-<!-- Three different subpages and links to them -->
+<!-- Text and Photos-->
 <br>
 <p>
-    I think you landed on this page by accident. Either I haven't totally developped this page or there is some other error.
-    My bad! Feel free to return to the other pages on the site.
+    Here are some of my sources and favorite chefs.
 </p>
+<br>
+<p>
+    Ina Garten: <a href="https://barefootcontessa.com/">barefootcontessa.com</a>
+</p>
+<p>
+    Hello Fresh: <a href="https://www.hellofresh.com/">hellofresh.com</a>
+</p>
+<br>
 <br>
 <br>
 <!-- Bottom Bar-->

@@ -16,14 +16,20 @@
 <!-- Welcome message -->
 <br>
 <h2>
-    OOPSIES!
+    Entrees
 </h2>
-<!-- Three different subpages and links to them -->
+<!-- Text and Photos-->
 <br>
-<p>
-    I think you landed on this page by accident. Either I haven't totally developped this page or there is some other error.
-    My bad! Feel free to return to the other pages on the site.
-</p>
+<p>Here are my favorite entree recipes:</p>
+<ul>
+    <li> <a href="../entrees/baked-penne.shtml">Baked Penne with Italian Sausage</a></li>
+    <li> <a href="../entrees/penne-alla-vodka.shtml">Penne alla Vodka</a></li>
+    <li> <a href="../entrees/pork-bok-choy-stirfry.shtml">Pork and Bok choy Stirfry</a></li>
+    <li> <a href="../entrees/pork-chops.shtml">Pork Chops</a></li>
+    <li> <a href="../entrees/shrimp-scampi.shtml">Shrimp Scampi</a></li>
+    <li> <a href="../entrees/simple-salmon.shtml">Simple Salmon</a></li>
+    <li> <a href="../entrees/taco-salad.shtml">Taco Salad</a></li>
+</ul>
 <br>
 <br>
 <!-- Bottom Bar-->

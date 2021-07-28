@@ -5,19 +5,19 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
-<link href="static/styles.css" rel="stylesheet">
-<link rel="icon" href="Images/favicon.ico">
+<link href="../static/styles.css" rel="stylesheet">
+<link rel="icon" href="../Images/favicon.ico">
 <title>
     Ridley's Recipes
 </title>
 </head>
 <body>
-<!--#include file="static/header.html" -->
+<!--#include file="../static/header.html" -->
 <!-- Welcome message -->
 <br>
-<img class="wrapped" src="Images/sarah-junior.jpeg" alt="Decorating Cookies">
+<img class="wrapped" src="../Images/sarah-junior.jpeg" alt="Decorating Cookies">
 <h2>
-    Salads
+    Behind the Ingredients
 </h2>
 <!-- Text and Photos-->
 <br>
@@ -25,6 +25,6 @@
 <br>
 <br>
 <!-- Bottom Bar-->
-<!--#include file="static/footer.html" -->
+<!--#include file="../static/footer.html" -->
 </body>
 </html>

@@ -5,14 +5,14 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
-<link href="static/styles.css" rel="stylesheet">
-<link rel="icon" href="Images/favicon.ico">
+<link href="../static/styles.css" rel="stylesheet">
+<link rel="icon" href="../Images/favicon.ico">
 <title>
     Ridley's Recipes
 </title>
 </head>
 <body>
-<!--#include file="static/header.html" -->
+<!--#include file="../static/header.html" -->
 <!-- Welcome message -->
 <br>
 <h2>
@@ -24,19 +24,19 @@
     Thanks for visiting my website! Here are a few ways you can reach out to me.
 </p>
 <br>
-<img class="wrapped2" src="Images/email.png" alt="Email Icon">
+<img class="wrapped2" src="../Images/email.png" alt="Email Icon">
 <br>
 <p class="pushed">
     Email: sarah22krid@gmail.com
 </p>
 <br>
-<img class="wrapped2" src="Images/insta.png" alt="Instagram Icon">
+<img class="wrapped2" src="../Images/insta.png" alt="Instagram Icon">
 <br>
 <p class="pushed">
     Instagram: @sarahrridleyy
 </p>
 <br><br>
-<img class="wrapped2" src="Images/linkedin.png" alt="LinkedIn Icon">
+<img class="wrapped2" src="../Images/linkedin.png" alt="LinkedIn Icon">
 <br>
 <p class="pushed">
     LinkedIn: linkedin.com/in/sarah-k-ridley/
@@ -50,6 +50,6 @@
 <br>
 <br>
 <!-- Bottom Bar-->
-<!--#include file="static/footer.html" -->
+<!--#include file="../static/footer.html" -->
 </body>
 </html>
