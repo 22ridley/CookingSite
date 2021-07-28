@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="static/styles.css" rel="stylesheet">
+<link rel="icon" href="Images/favicon.ico">
+<title>
+    Ridley's Recipes
+</title>
+</head>
+<body>
+<!--#include file="static/header.html" -->
+<!-- Welcome message -->
+<br>
+<img class="wrapped" src="Images/sarah-junior.jpeg" alt="Decorating Cookies">
+<h2>
+    About Me
+</h2>
+<!-- Text and Photos-->
+<br>
+<p>
+    I'm a senior in high school in North Carolina, and besides cooking and baking, I love to code. I started
+    making this website in my spare time (so excuse any bugs you find). I've worked with some no-code tools,
+    but I really love coding from scratch. So, all of this is from my own mind or from tutorials I found online.
+    If you want to reach out, I have my contact info listed on the contact page.
+</p>
+<br>
+<br><br>
+<h2>
+    My Cooking Story
+</h2>
+<br>
+<p>
+    I haven't been cooking and baking for too long, but these activities have always been important in my family.
+    We have annual traditions like cookie decorating, and we love to spend time together in the kitchen. Working
+    together to make a meal lets us spend time together and show our love through our culinary traditions, however
+    simple or elaborate the dish may be. I hope you enjoy these photos!
+</p>
+<br>
+<!-- Cookie Decorating -->
+<img src="Images/cookie-decorating.JPG" alt="Decorating Cookies" class="center">
+<br>
+<h4>
+    We love to decorate cookies as a family at Christmas!
+</h4>
+<br><br>
+<!-- Decorated Cookies -->
+<img src="Images/ccookies-cousins.jpg" alt="Decorated Cookies" class="center">
+<br>
+<h4>
+    We make a whole lot of cookies. They're delicious!
+</h4>
+<br>
+<br>
+<br>
+<!-- Bottom Bar-->
+<!--#include file="static/footer.html" -->
+</body>
+</html>

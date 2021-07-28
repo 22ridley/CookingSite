@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <!-- Heading information -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="static/styles.css" rel="stylesheet">
+    <link rel="icon" href="Images/favicon.ico">
+    <title>
+        Ridley's Recipes
+    </title>
+</head>
+<body>
+<!--#include file="static/header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Thanks for visiting!
+</h2>
+<!-- Three different subpages and links to them -->
+<br>
+<p>
+    Hi! My name is Sarah Ridley and I love cooking. I started cooking with my mom at the beginning of
+    the pandemic in 2020, and I want to share my love for this new hobby and skill with the rest of
+    the world. Navigate through the site to find my favorite recipes. If you're worried about the
+    ingredients, use the special recipe finder and select all of the ingredients you have to see the
+    possible dishes you can make. I have posted recipes from pastas to puddings, so you will surely
+    find something to make!
+</p>
+<br>
+<h2>
+    Spring Has Sprung!
+</h2>
+<br>
+<p>
+    Check out these delicious spring deserts.
+</p>
+<br>
+<!-- Shortbread Flowers -->
+<img src="Images/spring-cookies-high.JPG" alt="Shortbread Flowers" class="center">
+<br>
+<h4>
+    Cute shortbread flowers
+</h4>
+<br><br>
+<!-- Strawberry and Orange Scones -->
+<img src="Images/scones-high.JPG" alt="Strawberry and Orange Scones" class="center">
+<br>
+<h4>
+    Amazing strawberry and orange scones
+</h4>
+<br><br>
+<!-- Chocolate Brownies -->
+<img src="Images/brownies-high.JPG" alt="Chocolate Brownies" class="center">
+<br>
+<h4>
+    Delicious chocolate brownies
+</h4>
+<br>
+<!-- Bottom Bar-->
+<!--#include file="static/footer.html" -->
+
+<!-- Option choosing in case I need-->
+<label for="feelings">
+    How excited are you for Christmas?
+</label>
+<select name="feelings" id="feelings">
+    <option value="good">
+        Super excited!
+    </option>
+    <option value="medium">
+        So-so, I'm a bit excited.
+    </option>
+    <option value="not good">
+        I'm not really excited.
+    </option>
+    <option value="bad">
+        I don't celebrate Christmas.
+    </option>
+
+</select>
+</body>
+</html>
