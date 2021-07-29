@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- Heading information -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Quicksand:wght@300;400;700&display=swap" rel="stylesheet">
+<link href="../static/styles.css" rel="stylesheet">
+<link rel="icon" href="../Images/favicon.ico">
+<title>
+    Ridley's Recipes
+</title>
+</head>
+<body>
+<!--#include file="../static/header.html" -->
+<!-- Welcome message -->
+<br>
+<h2>
+    Shrimp Scampi
+</h2>
+<!-- Text and Photos-->
+<br>
+<p>Ingredients:</p>
+<ul>
+    <li>1/2 pound linguine (1/2 box)</li>
+    <li>1 pound large shrimp, peeled and deveined</li>
+    <li>4 tablespoons unsalted butter (1/2 stick)</li>
+    <li>4 tablespoons olive oil</li>
+    <li>9 garlic cloves, finely chopped or minced</li>
+    <li>1/2 cup parsley, chopped</li>
+    <li>Zest of 1 lemon</li>
+    <li>Juice of 2 lemons</li>
+    <li>1/2 teaspoon ground black pepper</li>
+    <li>1 teaspoon kosher salt (1/2 for pasta, 1/2 for shrimp)</li>
+    <li>1/2 teaspoon red pepper flakes</li>
+</ul>
+<br>
+<p>Instructions:</p>
+<ol>
+    <li>Zest one lemon into a large glass bowl. Then, juice both lemons and pour the juice into the bowl. Chop the parsley and add it to the bowl.</li>
+    <li>Boil a large pot of salted water, then add the linguine and cook for 10-13 minutes, according to the directions on the package.</li>
+    <li>Meanwhile, in a large pan, melt the butter and olive oil over medium-low heat. Add the minced or chopped garlic, and saute for 1 minute. Be careful, the garlic burns easily. Add the shrimp and as much salt and black pepper as desired.</li>
+    <li>Saute until the shrimp have just turning pink, about 5 minutes, stirring often. Lower the heat and flip the shrimp, sauteing until all shrimp are pink. Turn the heat to low.</li>
+    <li>When the pasta is done, drain the cooked linguine and pour it into the glass bowl. Add the shrimp, then add red pepper flakes, and black pepper or salt to taste.</li>
+</ol>
+<br>
+<br>
+<!-- Bottom Bar-->
+<!--#include file="../static/footer.html" -->
+</body>
+</html>
